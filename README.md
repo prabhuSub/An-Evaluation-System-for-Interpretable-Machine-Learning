@@ -8,7 +8,7 @@ description: A book on the research of the Evaluation Systems for Interpretable 
 
 ## Authors:
 
-**Grace** = LinkedIn \| [GitHub](https://github.com/GraceRuisiGu)
+**Grace** = [LinkedIn ](https://www.linkedin.com/in/ruisi-gu/)\| [GitHub](https://github.com/GraceRuisiGu)
 
 \(MS in Information Systems student at Northeastern University College of Engineering, Boston\)
 
