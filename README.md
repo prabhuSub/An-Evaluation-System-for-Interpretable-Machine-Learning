@@ -8,11 +8,11 @@ description: A book on the research of the Evaluation Systems for Interpretable 
 
 ## Authors:
 
-**Grace** = [LinkedIn ](https://www.linkedin.com/in/ruisi-gu/)\| [GitHub](https://github.com/GraceRuisiGu)
+**Ruisi Gu** = [LinkedIn ](https://www.linkedin.com/in/ruisi-gu/)\| [GitHub](https://github.com/GraceRuisiGu)
 
 \(MS in Information Systems student at Northeastern University College of Engineering, Boston\)
 
-**Prabhu** - [LinkedIn](https://www.linkedin.com/in/prabhu-subramanian/) \| [GitHub](https://github.com/prabhuSub)
+**Prabhu Subramanian** - [LinkedIn](https://www.linkedin.com/in/prabhu-subramanian/) \| [GitHub](https://github.com/prabhuSub)
 
 \(MS in Information Systems student at Northeastern University College of Engineering, Boston\)
 
