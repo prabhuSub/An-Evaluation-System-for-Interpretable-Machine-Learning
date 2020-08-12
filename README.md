@@ -14,9 +14,9 @@ description: A book on the research of the Evaluation Systems for Interpretable 
 
 ## **Mentor:**
 
-**Nicholas Brown** \(Assistant Teaching Professor,  Multidisciplinary Graduate Engineering Programs, Northeastern University\)
+**Nicholas Brown -** [LinkedIn](https://www.linkedin.com/in/nikbearbrown/) \| [GitHub](https://github.com/nikbearbrown)
 
-* [LinkedIn ](https://www.linkedin.com/in/nikbearbrown/)
+\(Assistant Teaching Professor,  Multidisciplinary Graduate Engineering Programs, Northeastern University\)
 
 **Readers note:** _**The book is not yet completed will be released in the last week of August**_
 
