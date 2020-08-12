@@ -4,6 +4,22 @@ description: A book on the research of the Evaluation Systems for Interpretable 
 
 # An Evaluation System for Interpretable Machine Learning
 
+![An Evaluation System](.gitbook/assets/image%20%281%29.png)
+
+## Authors:
+
+| **Grace** = LinkedIn \| [GitHub](https://github.com/GraceRuisiGu) | Prabhu - [LinkedIn](https://www.linkedin.com/in/prabhu-subramanian/) \| [GitHub](https://github.com/prabhuSub) |
+| :--- | :--- |
+
+
+## **Mentor:**
+
+**Nicholas Brown** \(Assistant Teaching Professor,  Multidisciplinary Graduate Engineering Programs, Northeastern University\)
+
+* [LinkedIn ](https://www.linkedin.com/in/nikbearbrown/)
+
+**Readers note:** _**The book is not yet completed will be released in the last week of August**_
+
 ## The Evaluation System of Interpretable Machine Learning
 
 ### 1. Abstract
