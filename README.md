@@ -1,1 +1,60 @@
-# An-Evaluation-System-for-Interpretable-Machine-Learning
+---
+description: A book on the research of the Evaluation Systems for Interpretable Models
+---
+
+# An Evaluation System for Interpretable Machine Learning
+
+## The Evaluation System of Interpretable Machine Learning
+
+### 1. Abstract
+
+### 2. Introduction
+
+### 3. Interpretable Machine Learning
+
+#### 3.1 Definition
+
+#### 3.2 Method
+
+* 3.2.1 Machine Learning Model
+* 3.2.2 Model-Agnostic
+* 3.2.3 Sample Theory
+
+### 4. Evaluation System of Interpretable Machine Learning
+
+#### 4.1 Definition
+
+* Evaluation System
+* Explainability
+
+#### 4.2 Metrics
+
+* 4.2.1 The Structure of the Evaluation System
+* 4.2.2 Interpretable models/Model-Specific
+  * Explanation Methods
+  * Method Properties
+* 4.2.3 Model-Agnostic
+  * Type of Explanation
+  * Properties of explanations
+    * Explanation Methods
+* 4.2.4 Human Explanations
+  * Human-friendly explanations
+
+#### 4.3 Results
+
+* Fixed Score Table
+
+### 5. User selection
+
+#### 5.1 Why and How the user will select the metrics?
+
+#### 5.2 Results
+
+#### 5.3 Example\(Notebook\)
+
+#### 5.4 Explanation
+
+### 6. Conclusion
+
+### 7. Citation and License
+
