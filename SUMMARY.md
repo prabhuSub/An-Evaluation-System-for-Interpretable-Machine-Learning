@@ -19,7 +19,7 @@
   * [5.1 Why & How the user will select the metrics?](5.-user-selection/5.1-why-and-how-the-user-will-select-the-metrics.md)
   * [5.2 Example](5.-user-selection/example/README.md)
     * [5.2.1 Suggestion List](5.-user-selection/example/5.2.1-suggestion-list.md)
-    * [5.2.2 Example\(Notebook\)](5.-user-selection/example/5.2-example-notebook.md)
+    * [5.2.2 Notebook](5.-user-selection/example/5.2-example-notebook.md)
   * [5.3 Results & Explanation](5.-user-selection/5.2-results.md)
 * [6. Conclusion](6.-conclusion.md)
 * [7. Citation and License](7.-citation-and-license.md)
