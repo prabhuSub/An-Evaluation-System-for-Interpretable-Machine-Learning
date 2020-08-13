@@ -5,7 +5,7 @@
 * [2. Introduction](2.-introduction.md)
 * [3. Interpretable Machine Learning](3.-interpretable-machine-learning/README.md)
   * [3.1 Definition](3.-interpretable-machine-learning/3.1-definition.md)
-  * [3.2 Method](3.-interpretable-machine-learning/3.2-method/README.md)
+  * [3.2 Methods](3.-interpretable-machine-learning/3.2-method/README.md)
     * [3.2.1 Machine Learning Model](3.-interpretable-machine-learning/3.2-method/3.2.1-machine-learning-model.md)
     * [3.2.2 Model-Agnostic](3.-interpretable-machine-learning/3.2-method/3.2.2-model-agnostic.md)
     * [3.2.3 Sample Theory](3.-interpretable-machine-learning/3.2-method/3.2.3-sample-theory.md)
