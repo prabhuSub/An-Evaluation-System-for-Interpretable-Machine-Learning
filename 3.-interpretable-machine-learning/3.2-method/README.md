@@ -2,9 +2,9 @@
 
 We have methods listed below to proceed. Below are the methods, that diverge under the Interpretable Machine Learning
 
-* **Machine Learning Models**
-* **Model-Agnostic**
-* **Sample Theory**
+* Machine Learning Models
+* Model-Agnostic
+* Sample Theory
 
 **Machine Learning Models** - will be helping us with a specific algorithm to build the interpretable models and start working with it, in addition to it to help us explain the working
 
