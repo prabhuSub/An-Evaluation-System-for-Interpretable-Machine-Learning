@@ -61,7 +61,7 @@ description: A book on the research of the Evaluation Systems for Interpretable 
 
 #### 5.3 [Results & Explanation](5.-user-selection/5.2-results.md)
 
-### 6. [Conclusion](6.-conclusion.md)
+### 6. [Discussion](6.-conclusion.md)
 
 ### 7. [Citation and License](7.-citation-and-license.md)
 
