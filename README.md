@@ -8,19 +8,19 @@ description: A book on the research of the Evaluation Systems for Interpretable 
 
 ## Authors:
 
-**Ruisi Gu** = [LinkedIn ](https://www.linkedin.com/in/ruisi-gu/)\| [GitHub](https://github.com/GraceRuisiGu)
+**Ruisi Gu** = ****[**LinkedIn** ](https://www.linkedin.com/in/ruisi-gu/)**\|** [**GitHub**](https://github.com/GraceRuisiGu)\*\*\*\*
 
-\(MS in Information Systems student at Northeastern University College of Engineering, Boston\)
+_\(MS in Information Systems student at Northeastern University College of Engineering, Boston\)_
 
-**Prabhu Subramanian** - [LinkedIn](https://www.linkedin.com/in/prabhu-subramanian/) \| [GitHub](https://github.com/prabhuSub)
+**Prabhu Subramanian** - ****[**LinkedIn**](https://www.linkedin.com/in/prabhu-subramanian/) **\|** [**GitHub**](https://github.com/prabhuSub)\*\*\*\*
 
-\(MS in Information Systems student at Northeastern University College of Engineering, Boston\)
+_\(MS in Information Systems student at Northeastern University College of Engineering, Boston\)_
 
 ## **Mentor:**
 
-**Nicholas Brown -** [LinkedIn](https://www.linkedin.com/in/nikbearbrown/) \| [GitHub](https://github.com/nikbearbrown)
+**Nicholas Brown -** [**LinkedIn**](https://www.linkedin.com/in/nikbearbrown/) **\|** [**GitHub**](https://github.com/nikbearbrown)\*\*\*\*
 
-\(Assistant Teaching Professor,  Multidisciplinary Graduate Engineering Programs, Northeastern University\)
+_\(Assistant Teaching Professor,  Multidisciplinary Graduate Engineering Programs, Northeastern University\)_
 
 **Readers note:** _**The book is not yet completed will be released in the last week of August**_
 
@@ -36,9 +36,9 @@ description: A book on the research of the Evaluation Systems for Interpretable 
 
 #### 3.2 [Method](3.-interpretable-machine-learning/3.2-method/)
 
-* [3.2.1 Machine Learning Model](3.-interpretable-machine-learning/3.2-method/3.2.1-machine-learning-model.md)
-* [3.2.2 Model-Agnostic](3.-interpretable-machine-learning/3.2-method/3.2.2-model-agnostic.md)
-* [3.2.3 Sample Theory](3.-interpretable-machine-learning/3.2-method/3.2.3-sample-theory.md)
+* \*\*\*\*[**3.2.1 Machine Learning Model**](3.-interpretable-machine-learning/3.2-method/3.2.1-machine-learning-model.md)\*\*\*\*
+* \*\*\*\*[**3.2.2 Model-Agnostic**](3.-interpretable-machine-learning/3.2-method/3.2.2-model-agnostic.md)\*\*\*\*
+* \*\*\*\*[**3.2.3 Sample Theory**](3.-interpretable-machine-learning/3.2-method/3.2.3-sample-theory.md)\*\*\*\*
 
 ### 4. [Evaluation System of Interpretable Machine Learning](4.-evaluation-system-of-interpretable-machine-learning/)
 
@@ -46,9 +46,9 @@ description: A book on the research of the Evaluation Systems for Interpretable 
 
 #### 4.2 [The Structure of the Evaluation System](4.-evaluation-system-of-interpretable-machine-learning/4.2.1-the-structure-of-the-evaluation-system/)
 
-* [4.2.1 Interpretable models\(Model-Specific\)](4.-evaluation-system-of-interpretable-machine-learning/4.2.1-the-structure-of-the-evaluation-system/4.2.2-interpretable-models.md)
-* [4.2.2 Model-Agnostic](4.-evaluation-system-of-interpretable-machine-learning/4.2.1-the-structure-of-the-evaluation-system/4.2.3-model-specific.md)
-* [4.2.3 Human Explanations](4.-evaluation-system-of-interpretable-machine-learning/4.2.1-the-structure-of-the-evaluation-system/4.2.4-human-explanations.md)
+* \*\*\*\*[**4.2.1 Interpretable models\(Model-Specific\)**](4.-evaluation-system-of-interpretable-machine-learning/4.2.1-the-structure-of-the-evaluation-system/4.2.2-interpretable-models.md)\*\*\*\*
+* \*\*\*\*[**4.2.2 Model-Agnostic**](4.-evaluation-system-of-interpretable-machine-learning/4.2.1-the-structure-of-the-evaluation-system/4.2.3-model-specific.md)\*\*\*\*
+* \*\*\*\*[**4.2.3 Human Explanations**](4.-evaluation-system-of-interpretable-machine-learning/4.2.1-the-structure-of-the-evaluation-system/4.2.4-human-explanations.md)\*\*\*\*
 
 #### 4.3 [Reference Score Table](4.-evaluation-system-of-interpretable-machine-learning/4.3-reference-score-table.md)
 
@@ -58,8 +58,8 @@ description: A book on the research of the Evaluation Systems for Interpretable 
 
 #### 5.2 [Example](5.-user-selection/example/)
 
-* [5.2.1 Suggestion List](5.-user-selection/example/5.2.1-suggestion-list.md)
-* [5.2.2 Notebook](5.-user-selection/example/5.2-example-notebook.md)
+* \*\*\*\*[**5.2.1 Suggestion List**](5.-user-selection/example/5.2.1-suggestion-list.md)\*\*\*\*
+* \*\*\*\*[**5.2.2 Notebook**](5.-user-selection/example/5.2-example-notebook.md)\*\*\*\*
 
 #### 5.3 [Results & Explanation](5.-user-selection/5.2-results.md)
 
