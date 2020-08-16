@@ -54,11 +54,11 @@ _\(Assistant Teaching Professor,  Multidisciplinary Graduate Engineering Program
 
 ### 5. [Customized - Interpretable Machine Learning Model](5.-user-selection/)
 
-#### 5.1[ Why & How the user will select the metrics?](5.-user-selection/5.1-why-and-how-the-user-will-select-the-metrics.md)
+#### 5.1[ ](5.-user-selection/5.1-why-and-how-the-user-will-select-the-metrics.md)[Why & How the user customize their model?](5.-user-selection/5.1-why-and-how-the-user-will-select-the-metrics.md)
 
 #### 5.2 [Example](5.-user-selection/example/)
 
-* \*\*\*\*[**5.2.1 Suggestion List**](5.-user-selection/example/5.2.1-suggestion-list.md)\*\*\*\*
+* \*\*\*\*[**5.2.1 Suggestion List**](5.-user-selection/example/5.2.1-suggestion-list.md)**s**
 * \*\*\*\*[**5.2.2 Notebook**](5.-user-selection/example/5.2-example-notebook.md)\*\*\*\*
 
 #### 5.3 [Results & Explanation](5.-user-selection/5.2-results.md)
