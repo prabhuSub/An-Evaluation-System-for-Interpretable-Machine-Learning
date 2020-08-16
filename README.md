@@ -58,7 +58,7 @@ _\(Assistant Teaching Professor,  Multidisciplinary Graduate Engineering Program
 
 #### 5.2 [Example](5.-user-selection/example/)
 
-* \*\*\*\*[**5.2.1 Suggestion List**](5.-user-selection/example/5.2.1-suggestion-list.md)**s**
+* \*\*\*\*[**5.2.1 Suggestion Lists**](5.-user-selection/example/5.2.1-suggestion-list.md)\*\*\*\*
 * \*\*\*\*[**5.2.2 Notebook**](5.-user-selection/example/5.2-example-notebook.md)\*\*\*\*
 
 #### 5.3 [Results & Explanation](5.-user-selection/5.2-results.md)
