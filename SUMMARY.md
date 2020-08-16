@@ -17,7 +17,7 @@
     * [4.2.3 Human Explanations](4.-evaluation-system-of-interpretable-machine-learning/4.2.1-the-structure-of-the-evaluation-system/4.2.4-human-explanations.md)
   * [4.3 Reference Score Table](4.-evaluation-system-of-interpretable-machine-learning/4.3-reference-score-table.md)
 * [5. Customized - Interpretable Machine Learning Model](5.-user-selection/README.md)
-  * [5.1 Why & How the user will select the metrics?](5.-user-selection/5.1-why-and-how-the-user-will-select-the-metrics.md)
+  * [5.1 Why & How the user customize their interpretable machine learning model?](5.-user-selection/5.1-why-and-how-the-user-will-select-the-metrics.md)
   * [5.2 Example](5.-user-selection/example/README.md)
     * [5.2.1 Suggestion List](5.-user-selection/example/5.2.1-suggestion-list.md)
     * [5.2.2 Notebook](5.-user-selection/example/5.2-example-notebook.md)
